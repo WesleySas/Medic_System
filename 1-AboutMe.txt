@@ -1,0 +1,18 @@
+Integrated multidisciplinary project with the goal of developing software for a small network of medical clinics with only 3 units
+
+In order to present a better efficiency in the service of its clients, the Medic System that brings with it 3 clinical units located in the center of São Paulo, is in this year of 2020, creating a platform for registering clients and services using the C programming language As the network does not yet have a high financial structure, it will let programmers operate in console mode when creating the program. This will have screens for registering patients, employees, doctors, scheduling screens, login screens, reports and all the other necessary for the composition of well-trained software.
+
+All code was made and compiled by IDE Dev-C++.
+
+-------------------------------------------------------------------------------------
+
+Projeto integrado multidisciplinar com o objetivo de desenvolver um software para uma pequena rede clínicas médicas com apenas 3 unidades
+
+Com a finalidade de apresentar uma melhor eficácia no atendimento de seus clientes a Medic System que traz consigo 3 unidades clinicas localizadas no centro de São Paulo, está neste ano de 2020, criando uma plataforma de cadastros de clientes e atendimentos utilizando a linguagem de programação C. Como a rede ainda não conta com uma estrutura financeira alta, deixará os programadores operar em modo console a criação do programa. Este que contará com telas de cadastramento de pacientes, funcionários, médicos, telas de agendamento, telas de login, relatórios e todos afins necessários para a composição de um software bem capacitado. 
+
+Todo código foi feito e compilado pela IDE Dev-C++.
+
+	
+
+
+					@saswesley
